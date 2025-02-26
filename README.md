@@ -1,8 +1,8 @@
 <h1 align="center">Olá, seja bem-vindo(a)!</h1>
 <p>Eu sou a Crislayne Morais, <strong>Desenvolvedora Full Stack</strong> de São Paulo, Brasil.</p>
 
-<p> <strong>•</strong>🚀 Transformando ideias em soluções tecnológicas criativas e eficientes!</p>
-<p> <strong>•</strong>📚 Sou apaixonada por aprendizado contínuo, sempre <strong>explorando novas tecnologias e boas práticas</strong>!</p>
+<p> <strong>•</strong>💡 Transformando ideias em soluções tecnológicas criativas e eficientes!</p>
+<p> <strong>•</strong>🚀 Sou apaixonada por aprendizado contínuo, sempre <strong>explorando novas tecnologias e boas práticas</strong>!</p>
 <p> <strong>•</strong>🎯 Gosto de desenvolver <strong>soluções bem estruturadas</strong>, focando na <strong>qualidade do código, performance e experiência do usuário</strong>!</p> 
  
 
