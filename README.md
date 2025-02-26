@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja bem-vindo(a)! 👋</h1>
+<h1 align="center">Olá, seja bem-vindo(a)!</h1>
 <p>Eu sou a Crislayne Morais, <strong>Desenvolvedora Full Stack</strong> de São Paulo, Brasil.</p>
 
 <p> • Transformando ideias em soluções tecnológicas criativas e eficientes!🚀</p>
