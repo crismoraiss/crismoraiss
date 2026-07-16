@@ -9,7 +9,7 @@
   com foco em qualidade de código, usabilidade e performance.
 </p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,github" />
 </p>
  
