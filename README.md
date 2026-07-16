@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,github" />
 </p>
  
 
